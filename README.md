@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alsalehi</h1>
 <h3 align="center">A passionate developer from Yemen</h3>
-<h3 align="center">Visit some of my project from the following link</h3>
-<h3 align="center">[Visit some of my project from the following link](https://portfolio-in-next-e872hpfbt-mohammad-alsalehis-projects.vercel.app/)</h3>
+<h3 align="center">Visit and try some of my projects from the following link</h3>
+<h3 align="center">(https://portfolio-in-next-e872hpfbt-mohammad-alsalehis-projects.vercel.app/)</h3>
 
 
 
